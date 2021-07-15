@@ -1,0 +1,5 @@
+前端软件：HBuilderX.3.0.7.20210123
+后端软件：Eclipse IDE for Java Developers - 2020-12
+JDK版本：JDK15
+MySQL版本：mysql-5.7.34-winx64
+tomcat版本：apache-tomcat-8.5.66-windows-x64

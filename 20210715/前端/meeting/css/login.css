@@ -1,0 +1,19 @@
+body{
+	background-image:url(../img/bg.jpg);
+	background-repeat: no-repeat/*是否重复*/;
+	background-size: cover;/*背景尺寸，覆盖*/
+	
+}
+.center{
+	width: 450px;
+	height: 300px;
+	background-color: rgba(0,0,0,0.3);
+	margin: 0px auto;/*居中*/
+	margin-top: 200px;
+}
+h2{
+	text-align: center;
+	letter-spacing: 20px;
+	color: white;
+	padding-top: 20px;
+}
